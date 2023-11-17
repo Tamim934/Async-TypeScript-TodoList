@@ -189,7 +189,7 @@ const bigNumber: bigint = 9007199254740993n;
 If you are working with numbers bigger than 2^53 or with some Math libraries, bigint will be a common type declaration.
 
 ### symbol
-
+![](https://th.bing.com/th/id/OIP.EwiUBy4D7eFulKD7WbZUawHaEK?rs=1&pid=ImgDetMain)
 The symbol type is used to represent the Symbol primitive value. This will create a unique, unnamed value.
 
 Run the following code using the Symbol() constructor function:
