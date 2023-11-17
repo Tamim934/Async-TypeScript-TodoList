@@ -177,7 +177,7 @@ This is another
 common type that is used often in JavaScript development, so this declaration will be common in TypeScript.
 
 ### bigint
-
+![](https://th.bing.com/th/id/R.84249ce706586f77006cfa6364b78894?rik=5Edxlfij3CyH4w&pid=ImgRaw&r=0)
 The type bigint is a type that can be used when targeting ES2020. It’s used to represent BigInt, which is a new datatype to store integers bigger than 2^53.
 
 Try the following code:
