@@ -266,7 +266,7 @@ Source has 3 element(s) but target allows only 2. (2322)
 ```
 
 ### any
-
+![](https://th.bing.com/th/id/R.11cec1092b843ff1d860f8eec22705e0?rik=3T7AvGSVDnDxcQ&pid=ImgRaw&r=0)
 In certain situations it may be too hard to specify the types of a value, such as if that value is coming from a third-party library or from code that was initially written without TypeScript. This can be especially common when migrating a JavaScript codebase to TypeScript in small steps. In these scenarios, it is possible to use a special type called any, which means any type. Using any means opting-out of type checking, and is the same as making the TypeScript Compiler ignore that value.
 
 Take the following code block:
