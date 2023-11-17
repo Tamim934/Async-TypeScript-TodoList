@@ -200,6 +200,7 @@ const mySymbol: symbol = Symbol('unique-symbol-value');
 The uniqueness of these values can be used to avoid reference collisions. For more on symbols in JavaScript, read the symbol article on Mozilla Developer Network (MDN).
 
 ### Arrays
+![](https://i.ytimg.com/vi/gFLU2VlyoQk/maxresdefault.jpg)
 In TypeScript, arrays are typed based on the elements they are expected to have. There are two ways to type an array:
 
 Appending [] to the expected type of the array elements. For example, if you want to type an array that holds multiple number values, you could do it like this:
