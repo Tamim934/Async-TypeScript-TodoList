@@ -347,7 +347,7 @@ const someUndefinedField: undefined = undefined;
 These are especially useful when creating your own custom types, which will be covered later in this series.
 
 ### never
-
+![](https://isamatov.com/images/typescript-understanding-never-type/TypeScript%20Basics%20Understanding%20The%20never%20Type.png)
 The never type is the type of a value that will never exist. For example, imagine you create a numeric variable:
 ```
 const year: number = 2021;
