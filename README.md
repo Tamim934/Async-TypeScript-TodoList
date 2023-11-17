@@ -282,7 +282,7 @@ thisCanBeAnything = ["Now I'm an array - This is almost like pure JavaScript!"];
 None of these declarations will give an error in TypeScript, since the type was declared as any.
 
 ### unknown
-
+![](https://th.bing.com/th/id/R.80f33e8053dcc0878604a98edb8d90f4?rik=slq7Gi36ZXl81g&pid=ImgRaw&r=0)
 The unknown type is like a type-safe counterpart of the any type. You can use unknown when you want to type something that you can not determine the value of, but still want to make sure that any code using that value is correctly checking the type before using it. This is useful for library authors with functions in their library that may accept a broad range of values from their users and do not want to type the value explicitly.
 
 For example, if you have a variable called code
@@ -326,6 +326,7 @@ In this example, you are checking if code is a number using the typeof operator.
 
 To understand the differences between the unknown and any types, you can think of unknown as “I do not know the type of that value” and any as “I do not care what type this value holds”.
 ### void
+
 You can use the void type to define the variable in question as holding no type at all. If you assign the result of a function that returns no value to a variable, that variable is going to have the type void.
 
 Take the following code:
