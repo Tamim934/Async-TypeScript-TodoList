@@ -243,6 +243,7 @@ Argument of type 'string' is not assignable to parameter of type 'number'. (2345
 ```
 
 ### Tuples 
+![](https://i.ytimg.com/vi/avSF6ymphfE/maxresdefault.jpg)
 Tuples are arrays with a specific number of elements. One common use-case for this is storing 2D coordinates in the format [x, y]. If you are working with React and using Hooks, the result from most Hooks is also a tuple, like const [isValid, setIsValid] = React.useState(false).
 
 To type a tuple, as opposed to when typing an array, you wrap the type of the elements inside a [], separating them with commas. Imagine you are creating a literal array with the types of the elements:
