@@ -326,7 +326,7 @@ In this example, you are checking if code is a number using the typeof operator.
 
 To understand the differences between the unknown and any types, you can think of unknown as “I do not know the type of that value” and any as “I do not care what type this value holds”.
 ### void
-
+![](https://i.ytimg.com/vi/T8JfhoPT6Y0/maxresdefault.jpg)
 You can use the void type to define the variable in question as holding no type at all. If you assign the result of a function that returns no value to a variable, that variable is going to have the type void.
 
 Take the following code:
@@ -347,6 +347,7 @@ const someUndefinedField: undefined = undefined;
 These are especially useful when creating your own custom types, which will be covered later in this series.
 
 ### never
+
 The never type is the type of a value that will never exist. For example, imagine you create a numeric variable:
 ```
 const year: number = 2021;
