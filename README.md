@@ -167,6 +167,7 @@ const isValid: boolean = false;
 Since hasErrors and isValid were declared as booleans, they can only be assigned the values true and false. Note that truthy and falsy values are not converted into their boolean equivalents and will throw an error if used with these variables.
 
 ### number
+![](https://cdn.educba.com/academy/wp-content/uploads/2021/02/TypeScript-number.jpg)
 The type number is used to represent integers and floats, as in the following:
 ```
 const pi: number = 3.14159;
