@@ -137,6 +137,9 @@ Now that you’ve tried out setting the type of a variable in TypeScript, the ne
 TypeScript has multiple basic types that are used as building blocks when building more complex types. In the following sections, you are going to examine most of these types. Notice that most variables you are creating throughout this section could have their type omitted because TypeScript would be able to infer them, but you are being explicit about the types for learning purposes.
 
 ### String
+![string](https://i.ytimg.com/vi/2kWdAGc-cPg/maxresdefault.jpg)
+
+
 The type string is used for textual data types, like string literals or template strings.
 
 Try out the following code:
@@ -151,6 +154,7 @@ In this code block, both language and message are assigned the string type. The 
 Since strings are common in JavaScript programming, this is probably one of the types you are going to use most.
 
 ### boolean
+![](https://cdn.educba.com/academy/wp-content/uploads/2020/12/TypeScript-boolean.jpg)
 The type boolean is used to represent true or false.
 
 Try out the code in the following block:
