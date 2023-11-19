@@ -11,7 +11,7 @@ TypeScript is a syntactic superset of JavaScript which adds static typing[^1^][1
 ## What is TypeScript?
 ### JavaScript and More
 
-TypeScript adds additional syntax to JavaScript to support 
+TypeScript adds additional syntax to JavaScript to support  
 a tighter integration with your editor. Catch errors early in 
 your editor.
 
